@@ -1,0 +1,12 @@
+package ViDu_Chuong_3;
+
+public class viDu3_11 {
+    public static int sum(int a,int b){
+        return a+b;
+    }
+
+    public static void main(String[] args) {
+        int sum = sum(2,5);
+        System.out.println(sum);
+    }
+}
